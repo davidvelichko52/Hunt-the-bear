@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    background: url(mainB.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#title{
+    font-size: 50px;
+    color: #000000;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#hide {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 50px;
+    color: red;
+}
+
+#random{
+    height: 225px;
+    width: auto;
+    float: right;
+}
+
+canvas{
+    border: 10px solid black;
+    width: 800px;
+    height: 400px;
+    background: url(canvasB.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position:relative; 
+    border-radius: 10px;
+}
+
+button{
+    background-color: rgb(148, 192, 91);
+    font-size: 30px;
+    border: 3px solid black;
+    border-radius: 10px ;
+    text-align: center;
+    margin-left: 30px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    height: 50px;
+
+}
+#but{
+    margin-left: 250px;
+}
