@@ -6,7 +6,7 @@ https://davidvelichko52.github.io/proj1SEI_30/
 #### Description 
 Hunt the bear is a game that was inspired by space invaders but but I wanted to add my own twist to it. In this game you as the hunter need to shoot as much bears as possible as the move down on you. The goal of the game is to try to stay alive by not letting the bears get to the bottom of the canvas.
 
-#wireframe
+# wireframe
 
 ![Alt Image Text](wire.png "huntthebear")
 
