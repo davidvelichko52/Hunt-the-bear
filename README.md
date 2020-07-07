@@ -12,10 +12,10 @@ Hunt the bear is a game that was inspired by space invaders but but I wanted to 
 
 
 ### How to move
-		-W = up
+		
 		-A = left
-		-S = down
 		-D = right
+		-Space = Shoot
 
 # Tech
     - The tech that I used:
